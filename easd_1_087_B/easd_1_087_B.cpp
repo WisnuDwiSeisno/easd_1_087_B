@@ -25,3 +25,7 @@ void input() {
 	}
 }
 
+void mergesort(int low, int mid,int high) {
+
+}
+
